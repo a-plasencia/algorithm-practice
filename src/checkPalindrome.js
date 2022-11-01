@@ -21,3 +21,6 @@ function checkPalindrome(inputString) {
     return false;
   }
 }
+
+console.log('the value of racecar in the checkPalindrome function is: ', checkPalindrome('racecar'));
+console.log('the value of chicken in the checkPalindrome function is: ', checkPalindrome('chicken'));
